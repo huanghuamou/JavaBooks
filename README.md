@@ -87,37 +87,37 @@
 - 深入理解Java虚拟机  [百度云下载链接](https://pan.baidu.com/s/1IOayNozrt27EnCCgi7OWkA) 密码：vkqm
 
 ## Java进阶
-- 代码大全  [百度云下载链接](http://www.baidu.com) 密码：
+- 代码大全  [百度云下载链接](https://pan.baidu.com/s/1hCNkF6HG-3vsynnHUceuKQ) 密码：o0v2
 
-- 代码整洁之道 [百度云下载链接](http://www.baidu.com) 密码：
+- 代码整洁之道 [百度云下载链接](https://pan.baidu.com/s/1_dqr_u19dsWd8fvM0k7o6g) 密码：39lx
 
-- 敏捷软件开发 [百度云下载链接](http://www.baidu.com) 密码：
+- 敏捷软件开发 [百度云下载链接](https://pan.baidu.com/s/1kz95EMc4lqvbQbyMHgWzuQ) 密码：263q
 
-- Effective Java(中文)  [百度云下载链接](http://www.baidu.com) 密码：
+- Effective Java(中文)  [百度云下载链接](https://pan.baidu.com/s/1moeVvny7XAq02y1oV4k_wA) 密码：inec
 
-- Effective Java（英文） [百度云下载链接](http://www.baidu.com) 密码：
+- Effective Java（英文） [百度云下载链接](https://pan.baidu.com/s/1wYO7lS-qRVA19TwkvX2AAw) 密码：dd3l
 
-- Java性能优化权威指南  [百度云下载链接](http://www.baidu.com) 密码：
+- Java性能优化权威指南  [百度云下载链接](https://pan.baidu.com/s/1H0aua5hUkLINR85poF037Q) 密码：zjpr
 
 ## JavaWeb
-- 轻量级JavaEE企业应用实战  [百度云下载链接](http://www.baidu.com) 密码：
+- 轻量级JavaEE企业应用实战  [百度云下载链接](https://pan.baidu.com/s/1AVOqR2B6aHFYoAqLwZAXIg) 密码：nihi
 
-- 深入分析JavaWeb技术内幕 [百度云下载链接](http://www.baidu.com) 密码：
+- 深入分析JavaWeb技术内幕 [百度云下载链接](https://pan.baidu.com/s/1NDjCY_7rEQphEBxCFeX3rQ) 密码：zujx
 
-- 深入剖析Tomcat [百度云下载链接](http://www.baidu.com) 密码：
+- 深入剖析Tomcat [百度云下载链接](https://pan.baidu.com/s/1Yz2-WpDLTJsZmkoGFY9OYw) 密码：n4rx
 
-- Head First Servlet and JSP [百度云下载链接](http://www.baidu.com) 密码：
+- Head First Servlet and JSP [百度云下载链接](https://pan.baidu.com/s/1gObTJEVvOPLWTXUgQUbRkQ) 密码：vpa5
 
-- Maven实战 [百度云下载链接](http://www.baidu.com) 密码：
+- Maven实战 [百度云下载链接](https://pan.baidu.com/s/1AcDbAzPg67CPVxabb8rG2A) 密码：k5ax
 
-- Spring实战 [百度云下载链接](http://www.baidu.com) 密码：
+- Spring实战 [百度云下载链接](https://pan.baidu.com/s/1yEWcnOUY3V9gBB1oTvGHUQ) 密码：7t6r
 
-- Camel in Action [百度云下载链接](http://www.baidu.com) 密码：
+- Camel in Action [百度云下载链接](https://pan.baidu.com/s/16njqu_5C99ovG1yN4WYdtA) 密码：vooz
 
-- Spring 5 Recipes, 4th Edition [百度云下载链接](http://www.baidu.com) 密码：
+- Spring 5 Recipes, 4th Edition [百度云下载链接](https://pan.baidu.com/s/1G1IDHu-TsXb-rWY7YDWj2Q) 密码：71xr
 
 ## Java工具
-- Java se 11中文 api [百度云下载链接](http://www.baidu.com) 密码：
+- Java se 11中文 api [百度云下载链接](https://pan.baidu.com/s/1zADIhpRzTipBiQZMymFfTQ) 密码：dqoa
 
 # 前端
 - 疯狂aJax讲义 [百度云下载链接](http://www.baidu.com) 密码:
