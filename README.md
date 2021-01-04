@@ -9,7 +9,7 @@
     - [计算机网络](#计算机网络)
     - [计算机组成原理](#计算机组成原理)
 
-+ [面试](#面试) 
++ [面试相关](#面试相关) 
 + [Java](#Java)
     - [Java基础](#Java基础)
     - [Java进阶](#Java进阶)
@@ -56,10 +56,10 @@
 - 计算机是怎样跑起来的 [百度云下载链接](http://www.baidu.com) 密码:
 
 # 面试相关
-- 阿里巴巴Java面试问题大全 [百度云下载链接](http://www.baidu.com) 密码:
-- 程序员面试宝典 [百度云下载链接](http://www.baidu.com) 密码:
-- 大厂面试真题 [百度云下载链接](http://www.baidu.com) 密码:
-- Java面试突击 [百度云下载链接](http://www.baidu.com) 密码:
+- 阿里巴巴Java面试问题大全 [百度云下载链接](https://pan.baidu.com/s/1JXLIbe7vnh8jTQGut-IM1Q) 密码:k004
+- 程序员面试宝典 [百度云下载链接](https://pan.baidu.com/s/18ShAzTczJHoSwCAP60X0Ng) 密码:o4yh
+- 大厂面试真题 [百度云下载链接](https://pan.baidu.com/s/1CEJzQ14xD0ikx6q-B8Hmfw) 密码:96mf
+- Java面试突击 [百度云下载链接](https://pan.baidu.com/s/1-RgEhVJhIv2tQLntytIUYg) 密码:g6kw
 
 
 # Java
@@ -161,10 +161,10 @@
 - SQLite 权威指南 [百度云下载链接](http://www.baidu.com) 密码:
 
 # Git
-- 快速入门Git [百度云下载链接](http://www.baidu.com) 密码:
-- 专业git中文 [百度云下载链接](http://www.baidu.com) 密码:
-- Git参考手册 [百度云下载链接](http://www.baidu.com) 密码:
-- 《Pro Git》中文版 [百度云下载链接](http://www.baidu.com) 密码:
+- 快速入门Git [百度云下载链接](https://pan.baidu.com/s/1jI49TH83Alr81NwY-V4PKQ) 密码:r3j5
+- 专业git中文 [百度云下载链接](https://pan.baidu.com/s/1tAj0De3MwJyfQ4iI7gvN8A) 密码:x9sv
+- Git参考手册 [百度云下载链接](https://pan.baidu.com/s/1r-ASOq-aUi2TMCOK5tisqg) 密码:dn63
+- 《Pro Git》中文版 [百度云下载链接](https://pan.baidu.com/s/1sdE9UHEuyfrUblCeeaPJ_w) 密码:zsjt
 
 # 设计模式
 - 图解设计模式 [百度云下载链接](http://www.baidu.com) 密码:
