@@ -149,16 +149,16 @@
 - 汇编语言基于linux环境第3版 [百度云下载链接](http://www.baidu.com) 密码:
 
 # 中间件
-- redis实战 [百度云下载链接](http://www.baidu.com) 密码:
+- redis实战 [百度云下载链接](https://pan.baidu.com/s/1EAWHoP5BrcWuL_4jFtcX6g) 密码:c39d
 
 # 数据库
-- 高性能MySQL [百度云下载链接](http://www.baidu.com) 密码:
-- 深入浅出MySQL [百度云下载链接](http://www.baidu.com) 密码:
-- MongoDB权威指南 [百度云下载链接](http://www.baidu.com) 密码:
-- MySQL必知必会 [百度云下载链接](http://www.baidu.com) 密码:
-- MySQL技术内幕InnoDB存储引擎 [百度云下载链接](http://www.baidu.com) 密码:
-- SQL查询的艺术 [百度云下载链接](http://www.baidu.com) 密码:
-- SQLite 权威指南 [百度云下载链接](http://www.baidu.com) 密码:
+- 高性能MySQL [百度云下载链接](https://pan.baidu.com/s/1SEg3qTy6tdiQFRwxgvxCJA) 密码:hxcs
+- 深入浅出MySQL [百度云下载链接](https://pan.baidu.com/s/1_LHgHr4qrUbQvHHFXBOGIA) 密码:ozx8
+- MongoDB权威指南 [百度云下载链接](https://pan.baidu.com/s/1Tf1fOHkygI46fqGZ5P33Ng) 密码:kk81
+- MySQL必知必会 [百度云下载链接](https://pan.baidu.com/s/19u78Y4L2Nh382m5LBFXP9g) 密码:tl7g
+- MySQL技术内幕InnoDB存储引擎 [百度云下载链接](https://pan.baidu.com/s/1vESfv-ZaEZs3JLqGoW30BQ) 密码:hpku
+- SQL查询的艺术 [百度云下载链接](https://pan.baidu.com/s/1tEdKsH2CIZXBE8nH3lDR9A) 密码:jc4h
+- SQLite 权威指南 [百度云下载链接](https://pan.baidu.com/s/1Zu0Bh_oouk7fYwNboBfcFQ) 密码:mra5
 
 # Git
 - 快速入门Git [百度云下载链接](https://pan.baidu.com/s/1jI49TH83Alr81NwY-V4PKQ) 密码:r3j5
