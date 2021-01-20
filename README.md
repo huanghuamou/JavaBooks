@@ -33,27 +33,27 @@
 
 # 计算机基础
 ## 操作系统
-- 30天填自制操作系统[百度云下载链接](http://www.baidu.com) 密码:
-- 操作系统之哲学原理 [百度云下载链接](http://www.baidu.com)  密码:
-- 程序是怎样跑起来的 [百度云下载链接](http://www.baidu.com)  密码:
-- 深入理解计算机操作系统 [百度云下载链接](http://www.baidu.com)  密码:
-- 现代操作系统 [百度云下载链接](http://www.baidu.com)  密码:
+- 30天填自制操作系统     [百度云下载链接](https://pan.baidu.com/s/176Pt1NHbL4mNv4WgjKmAQA) 密码:qd5s
+- 操作系统之哲学原理 [百度云下载链接](https://pan.baidu.com/s/1IcuCK6Hj9xujz8E_ErIsFgm)  密码:3jwy
+- 程序是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1FNaGCWfOM4ACYXuYAA4ieg)  密码:2t2m
+- 深入理解计算机操作系统 [百度云下载链接](https://pan.baidu.com/s/1PKpFUgTOEjm88R8ouguA4A)  密码:1szh
+- 现代操作系统 [百度云下载链接](https://pan.baidu.com/s/1tkVtg0AX7DnyJKqlz_4pXA)  密码:ks6n
 
 ## 汇编语言
-- 汇编语言 [百度云下载链接](http://www.baidu.com) 密码:
+- 汇编语言   [百度云下载链接](https://pan.baidu.com/s/1Lv03fwCEiBW1sAmI4VbsAA) 密码:xsd5
 
 ## 计算机网络
-- 计算机网络：自顶向下 [百度云下载链接](http://www.baidu.com)  密码:
-- 图解HTTP [百度云下载链接](http://www.baidu.com) 密码:
-- 图解TC/IP [百度云下载链接](http://www.baidu.com) 密码:
-- 网络是怎样连接的 [百度云下载链接](http://www.baidu.com) 密码:
-- HTTP权威指南 [百度云下载链接](http://www.baidu.com) 密码:
-- UNIX网络编程 [百度云下载链接](http://www.baidu.com) 密码:
+- 计算机网络：自顶向下 [百度云下载链接](https://pan.baidu.com/s/1Zvt9KQkStJw4tq1_5nad4g)  密码:xclf
+- 图解HTTP [百度云下载链接](https://pan.baidu.com/s/1hpY1ygoe3zS4ESu1owdTPg) 密码:1f9h
+- 图解TC/IP [百度云下载链接](https://pan.baidu.com/s/1WcOU4Fxa1x8SrOTDPtyWOg) 密码:xd4c
+- 网络是怎样连接的 [百度云下载链接](https://pan.baidu.com/s/1GYbrVTLhOlvexDXsZqEduw) 密码:qh5b
+- HTTP权威指南 [百度云下载链接](https://pan.baidu.com/s/1ti2EA47ZeSUnlroTj7TEbQ) 密码:jm2q
+- UNIX网络编程 [百度云下载链接](https://pan.baidu.com/s/1NRQjgUMFQ-9FmkmjyMgZlA) 密码:b2ir
 
 ## 计算机组成原理
-- 隐匿在计算机软硬件背后的语言 [百度云下载链接](http://www.baidu.com) 密码:
-- 大话计算机 [百度云下载链接](http://www.baidu.com) 密码:
-- 计算机是怎样跑起来的 [百度云下载链接](http://www.baidu.com) 密码:
+- 隐匿在计算机软硬件背后的语言 [百度云下载链接](https://pan.baidu.com/s/1iDGP6PhbxH-YMVqYxbiLYg) 密码:govf
+- 大话计算机 [百度云下载链接](https://pan.baidu.com/s/1OlAcvbmfSAI79ucT6wPezQ) 密码:i315
+- 计算机是怎样跑起来的 [百度云下载链接](https://pan.baidu.com/s/1VS5tswgvAdTssys_nQf3Iw) 密码:3295
 
 # 面试相关
 - 阿里巴巴Java面试问题大全 [百度云下载链接](https://pan.baidu.com/s/1JXLIbe7vnh8jTQGut-IM1Q) 密码:k004
@@ -170,6 +170,7 @@
 - 图解设计模式 [百度云下载链接](http://www.baidu.com) 密码:
 - 研磨设计模式 [百度云下载链接](http://www.baidu.com) 密码:
 - Head First设计模式 [百度云下载链接](http://www.baidu.com) 密码:
+- 设计模式之禅 [百度云下载链接](http://www.baidu.com) 密码:
 
 
 # 数据结构与算法
@@ -232,9 +233,9 @@
 
 
 # 程序员修炼
-- 黑客与画家 [百度云下载链接](http://www.baidu.com) 密码:
-- 浪潮之巅 [百度云下载链接](http://www.baidu.com) 密码:
-- 奔跑吧，程序员：从零开始打造产品、技术和团队 [百度云下载链接](http://www.baidu.com) 密码:
+- 黑客与画家 [百度云下载链接](https://pan.baidu.com/s/1hnleTzVz__gr2tf2FmnTNw) 密码:089h
+- 浪潮之巅 [百度云下载链接](https://pan.baidu.com/s/1PPdAc5BUsbw18o7dy9X1tA) 密码:nr2t
+- 奔跑吧，程序员：从零开始打造产品、技术和团队 [百度云下载链接](https://pan.baidu.com/s/1o8BcvvzU0ZltwrQmZ15roA) 密码:lgln
 
 # 免责声明 
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：44537479@qq.com
