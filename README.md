@@ -167,39 +167,39 @@
 - 《Pro Git》中文版 [百度云下载链接](https://pan.baidu.com/s/1sdE9UHEuyfrUblCeeaPJ_w) 密码:zsjt
 
 # 设计模式
-- 图解设计模式 [百度云下载链接](http://www.baidu.com) 密码:
-- 研磨设计模式 [百度云下载链接](http://www.baidu.com) 密码:
-- Head First设计模式 [百度云下载链接](http://www.baidu.com) 密码:
-- 设计模式之禅 [百度云下载链接](http://www.baidu.com) 密码:
+- 图解设计模式 [百度云下载链接](https://pan.baidu.com/s/1R3WzlihvjRZ676WtboBQDg) 密码:cqid
+- 研磨设计模式 [百度云下载链接](https://pan.baidu.com/s/1xrmhZWgpvOPtw03L2TKHkg) 密码:zvls
+- Head First设计模式 [百度云下载链接](https://pan.baidu.com/s/1CXHTcPNF3i9B1N7u0-pldA) 密码:lfr2
+- 设计模式之禅 [百度云下载链接](https://pan.baidu.com/s/1-5O-nN89hv4BKRiWzK4yBg) 密码:u8vk
 
 
 # 数据结构与算法
-- 挑战程序设计竞赛 [百度云下载链接](http://www.baidu.com) 密码:
-- Java数据结构和算法 [百度云下载链接](http://www.baidu.com) 密码:
-- 算法图解 [百度云下载链接](http://www.baidu.com) 密码:
-- 算法导论 [百度云下载链接](http://www.baidu.com) 密码:
-- 算法第四版 [百度云下载链接](http://www.baidu.com) 密码:
-- 数据结构与算法分析C语言描述版 [百度云下载链接](http://www.baidu.com) 密码:
-- 数据结构与算法分析Java语言描述版 [百度云下载链接](http://www.baidu.com) 密码:
-- 数据结构与算法 Python语言描述_裘宗燕 [百度云下载链接](http://www.baidu.com) 密码:
-- 剑指offer [百度云下载链接](http://www.baidu.com) 密码:
-- 计算机程序设计艺术1-3卷 [百度云下载链接](http://www.baidu.com) 密码:
-- 大话数据结构 [百度云下载链接](http://www.baidu.com) 密码:
-- 程序员代码面试指南：IT 名企算法与数据结构题目最优解 [百度云下载链接](http://www.baidu.com) 密码:
-- 编程珠玑 [百度云下载链接](http://www.baidu.com) 密码:
-- 编程之美 [百度云下载链接](http://www.baidu.com) 密码:
-- 啊哈算法 [百度云下载链接](http://www.baidu.com) 密码:
-- 程序员的算法趣题 [百度云下载链接](http://www.baidu.com) 密码:
+- 挑战程序设计竞赛 [百度云下载链接](https://pan.baidu.com/s/14vC00JPnkFHreA9bBIgBWQ) 密码:fc5a
+- Java数据结构和算法 [百度云下载链接](https://pan.baidu.com/s/1v53B6rKQXNXE769HLJJ-6w) 密码:1msp
+- 算法图解 [百度云下载链接](https://pan.baidu.com/s/1Lf2oWbJR74FYKfEb_nf-Bw) 密码:2yqr
+- 算法导论 [百度云下载链接](https://pan.baidu.com/s/1tqXZJhWP7JIczHutB0vFxQ) 密码:9ndm
+- 算法第四版 [百度云下载链接](https://pan.baidu.com/s/1Dr_yqFhcDL7x7LjeC2cEwQ) 密码:g7ou
+- 数据结构与算法分析C语言描述版 [百度云下载链接](https://pan.baidu.com/s/1bumWXZnTjUQUnoa-S9Wjmw) 密码:5wdj
+- 数据结构与算法分析Java语言描述版 [百度云下载链接](https://pan.baidu.com/s/1t-U55Xys73JyQh8CloiTwA) 密码:7a98
+- 数据结构与算法 Python语言描述_裘宗燕 [百度云下载链接](https://pan.baidu.com/s/1hotOoSwpfkjvErneVbu85w) 密码:9jh8
+- 剑指offer [百度云下载链接](https://pan.baidu.com/s/1aQIQX72oPIMHwU2Eh1fBPQ) 密码:56o3
+- 计算机程序设计艺术1-3卷 [百度云下载链接](https://pan.baidu.com/s/1MbMUK1bp0W0hg0MU5_d4Qg) 密码:4msx
+- 大话数据结构 [百度云下载链接](https://pan.baidu.com/s/1XVx5FTu_8KD4IJcZyRvTUg) 密码:cc5d
+- 程序员代码面试指南：IT 名企算法与数据结构题目最优解 [百度云下载链接](https://pan.baidu.com/s/1gaa1M-e36MpgqHoFuEL4Zw) 密码:w3dk
+- 编程珠玑 [百度云下载链接](https://pan.baidu.com/s/1YgZlpJfCW_GWzybweqrcLw) 密码:jyds
+- 编程之美 [百度云下载链接](https://pan.baidu.com/s/10y_LWJhBCL37RaH6GFMRQg) 密码:hr1j
+- 啊哈算法 [百度云下载链接](https://pan.baidu.com/s/1q0n7NdqzYVOoLe32wNu8sQ) 密码:pb43
+- 程序员的算法趣题 [百度云下载链接](https://pan.baidu.com/s/15zAidSHClp7qxOqqqWleHw) 密码:ry68
 
 
 
 # 人工智能
-- 贝叶斯思维统计建模的Python学习法 [百度云下载链接](http://www.baidu.com) 密码:
-- 机器学习实战 [百度云下载链接](http://www.baidu.com) 密码:
-- Python机器学习及实践 [百度云下载链接](http://www.baidu.com) 密码:
-- Tensorflow实战Google深度学习框架 [百度云下载链接](http://www.baidu.com) 密码:
-- TensorFlow实践与智能系统 [百度云下载链接](http://www.baidu.com) 密码:
-- 深度学习_中文版 [百度云下载链接](http://www.baidu.com) 密码:
+- 贝叶斯思维统计建模的Python学习法 [百度云下载链接](https://pan.baidu.com/s/1JEFP93K9J0_MNdvrNVsFgQ) 密码:64jg
+- 机器学习实战 [百度云下载链接](https://pan.baidu.com/s/1SpiRH7XsEc3VBYkIqYjTVA) 密码:9qhk
+- Python机器学习及实践 [百度云下载链接](https://pan.baidu.com/s/1orFHsqExhAiPGJPEgle3tg) 密码:4osu
+- Tensorflow实战Google深度学习框架 [百度云下载链接](https://pan.baidu.com/s/1jYaseI-IsAV2ql2tHjxbRA) 密码:8unl
+- TensorFlow实践与智能系统 [百度云下载链接](https://pan.baidu.com/s/1nJnoGzvp-S276hm3RteVjA) 密码:k4ac
+- 深度学习_中文版 [百度云下载链接](https://pan.baidu.com/s/17Q3Ml5Yq9p9wli7RJxtrvw) 密码:fqfv
 
 
 # Go
