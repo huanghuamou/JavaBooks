@@ -120,33 +120,33 @@
 - Java se 11中文 api [百度云下载链接](https://pan.baidu.com/s/1zADIhpRzTipBiQZMymFfTQ) 密码：dqoa
 
 # 前端
-- 疯狂aJax讲义 [百度云下载链接](http://www.baidu.com) 密码:
-- Bootstrap实战 [百度云下载链接](http://www.baidu.com) 密码:
-- HTML5揭秘 [百度云下载链接](http://www.baidu.com) 密码:
-- HTML5与CSS3基础教程 [百度云下载链接](http://www.baidu.com) 密码:
-- HTML与CSS入门经典 [百度云下载链接](http://www.baidu.com) 密码:
-- JavaScript DOM编程艺术 [百度云下载链接](http://www.baidu.com) 密码:
-- JavaScript高级程序设计 [百度云下载链接](http://www.baidu.com) 密码:
-- JavaScript高效图形编程 [百度云下载链接](http://www.baidu.com) 密码:
-- jQuery高级编程 [百度云下载链接](http://www.baidu.com) 密码:
-- jQuery技术内幕 [百度云下载链接](http://www.baidu.com) 密码:
-- jQuery权威指南 [百度云下载链接](http://www.baidu.com) 密码:
-- Node.js开发指南 [百度云下载链接](http://www.baidu.com) 密码:
+- 疯狂aJax讲义 [百度云下载链接](https://pan.baidu.com/s/1r1hUaFa0Px8YBFAbatTHaw) 密码:0jvl
+- Bootstrap实战 [百度云下载链接](https://pan.baidu.com/s/1_Y7ZEhKabzmJl-RkmRr5Rw) 密码:7jko
+- HTML5揭秘 [百度云下载链接](https://pan.baidu.com/s/105-_JwI1GI8hK1UopWk-Nw) 密码:yrpq
+- HTML5与CSS3基础教程 [百度云下载链接](https://pan.baidu.com/s/1W6o3FeZCUJvPH1YRVW_wng) 密码:wynk
+- HTML与CSS入门经典 [百度云下载链接](https://pan.baidu.com/s/1T2n278rD2Blhox93EvLYGQ) 密码:7hwk
+- JavaScript DOM编程艺术 [百度云下载链接](https://pan.baidu.com/s/1M6pgFIacj2st_b6RrFt28A) 密码:xuov
+- JavaScript高级程序设计 [百度云下载链接](https://pan.baidu.com/s/1ClFTdmClOt9Oa0kF-lH4hw) 密码:c3y2
+- JavaScript高效图形编程 [百度云下载链接](https://pan.baidu.com/s/1W3IU0vYnapZw0uaIW_7bTw) 密码:ylld
+- jQuery高级编程 [百度云下载链接](https://pan.baidu.com/s/1SlOvJ2WKxLY8FvMrrMhVMA) 密码:kpgj
+- jQuery技术内幕 [百度云下载链接](https://pan.baidu.com/s/16IoR3zC0pgiEwNB9w8ac7Q) 密码:dqvi
+- jQuery权威指南 [百度云下载链接](https://pan.baidu.com/s/11qkXtwFMKsKV6XiTkVY_8w) 密码:c0s0
+- Node.js开发指南 [百度云下载链接](https://pan.baidu.com/s/1aphW40kdFA8nuREQ4ws0mg) 密码:atz8
 
 
 
 
 # Linux
-- 精通正则表达式 [百度云下载链接](http://www.baidu.com) 密码:
-- 鸟哥的Linux私房菜基础篇和服务器篇 [百度云下载链接](http://www.baidu.com) 密码:
-- 深入Linux内核架构 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux宝典 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux常用命令大全 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux防火墙 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux高级程序设计 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux环境编程 [百度云下载链接](http://www.baidu.com) 密码:
-- Linux命令详解词典 [百度云下载链接](http://www.baidu.com) 密码:
-- 汇编语言基于linux环境第3版 [百度云下载链接](http://www.baidu.com) 密码:
+- 精通正则表达式 [百度云下载链接](https://pan.baidu.com/s/176QmiPMS1Excvoi8Bk6ikg) 密码:i4l0
+- 鸟哥的Linux私房菜基础篇和服务器篇 [百度云下载链接](https://pan.baidu.com/s/1I8W8VLAfQKqOrdUflVtlHQ) 密码:1qzs
+- 深入Linux内核架构 [百度云下载链接](https://pan.baidu.com/s/1bxAydFnjG-nqNIfzoWI5vg) 密码:7tme
+- Linux宝典 [百度云下载链接](https://pan.baidu.com/s/1WGtDcFQVsEO9ItmCKYQucA) 密码:rrac
+- Linux常用命令大全 [百度云下载链接](https://pan.baidu.com/s/1VNd7MqxrMlxlVMLin1GHYA) 密码:chgo
+- Linux防火墙 [百度云下载链接](https://pan.baidu.com/s/1M6zR_h1k3uEFMZDwEI0yuQ) 密码:prpv
+- Linux高级程序设计 [百度云下载链接](https://pan.baidu.com/s/15RaElPkA9ErWtAHxsfL0OQ) 密码:w3x8
+- Linux环境编程 [百度云下载链接](https://pan.baidu.com/s/1p1s2T07ocEkd4-58X9Z57g) 密码:5emg
+- Linux命令详解词典 [百度云下载链接](hhttps://pan.baidu.com/s/1OmLLtVQdTGJgiIlydlic_A) 密码:pljt
+- 汇编语言基于linux环境第3版 [百度云下载链接](https://pan.baidu.com/s/10DqdURESfM74vxZGofxM3Q) 密码:wlir
 
 # 中间件
 - redis实战 [百度云下载链接](https://pan.baidu.com/s/1EAWHoP5BrcWuL_4jFtcX6g) 密码:c39d
@@ -203,9 +203,9 @@
 
 
 # Go
-- 学习Go语言 [百度云下载链接](http://www.baidu.com) 密码:
-- Go语言实战 [百度云下载链接](http://www.baidu.com) 密码:
-- Go web编程 [百度云下载链接](http://www.baidu.com) 密码:
+- 学习Go语言 [百度云下载链接](https://pan.baidu.com/s/1OV2jIW3Eo-DYT1uXiDM5BQ) 密码:zes3
+- Go语言实战 [百度云下载链接](https://pan.baidu.com/s/1_hOzOSkl0-OLAU8CMsTwNw) 密码:4waj
+- Go web编程 [百度云下载链接](https://pan.baidu.com/s/1mkFIbtfAKz9dLZ34H3ko5g) 密码:0zeu
 
 # Python
 
