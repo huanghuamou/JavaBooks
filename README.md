@@ -210,26 +210,26 @@
 # Python
 
 ## Python基础
-- 编程小白的第一本Python入门书 [百度云下载链接](http://www.baidu.com) 密码:
-- Python编程初学者指南 [百度云下载链接](http://www.baidu.com) 密码:
-- Python高级编程 [百度云下载链接](http://www.baidu.com) 密码:
-- Python编程入门经典 [百度云下载链接](http://www.baidu.com) 密码:
-- Python灰帽子 [百度云下载链接](http://www.baidu.com) 密码:
-- Python开发技术详解 [百度云下载链接](http://www.baidu.com) 密码:
-- Python开发实战 [百度云下载链接](http://www.baidu.com) 密码:
-- Python网络编程基础 [百度云下载链接](http://www.baidu.com) 密码:
-- Python学习手册 [百度云下载链接](http://www.baidu.com) 密码:
+- 编程小白的第一本Python入门书 [百度云下载链接](https://pan.baidu.com/s/1jGwY4qMyz9QdvAuwk_GSoA) 密码:9w6r
+- Python编程初学者指南 [百度云下载链接](https://pan.baidu.com/s/1pwIfD31xiwXr7yCC-ySoQQ) 密码:spp8
+- Python高级编程 [百度云下载链接](https://pan.baidu.com/s/1DHzFCXAAAoYpqQZBWQsgKQ) 密码:p1vh
+- Python编程入门经典 [百度云下载链接](https://pan.baidu.com/s/1Hw8d1ijyCWzpGAN-9ht-Cw) 密码:gslc
+- Python灰帽子 [百度云下载链接](https://pan.baidu.com/s/1hhPHVAPvuSIIPa_KndE05g) 密码:mms9
+- Python开发技术详解 [百度云下载链接](https://pan.baidu.com/s/1TQO2bZpFRR-t66_rCVaDCw) 密码:vcgc
+- Python开发实战 [百度云下载链接](https://pan.baidu.com/s/1Q9d_UpoOQyHGk8QyydLddw) 密码:9sul
+- Python网络编程基础 [百度云下载链接](https://pan.baidu.com/s/10_ihjZGXP0rY4O4Q5xscrw) 密码:oos7
+- Python学习手册 [百度云下载链接](https://pan.baidu.com/s/1EdgI_tHu48zh09tzB6wFig) 密码:qzcg
 
 
 ## 数据分析与爬虫
 
-- 数据科学入门 [百度云下载链接](http://www.baidu.com) 密码:
-- 用Python写网络爬虫 [百度云下载链接](http://www.baidu.com) 密码:
-- Python数据处理 [百度云下载链接](http://www.baidu.com) 密码:
-- Python数据分析实战 [百度云下载链接](http://www.baidu.com) 密码:
-- Python数据科学手册 [百度云下载链接](http://www.baidu.com) 密码:
-- Python数据可视化编程实战 [百度云下载链接](http://www.baidu.com) 密码:
-- 精通Scrapy网络爬虫 [百度云下载链接](http://www.baidu.com) 密码:
+- 数据科学入门 [百度云下载链接](https://pan.baidu.com/s/1fLDchCuLD1fSffMrxdNJ6A) 密码:rbeg
+- 用Python写网络爬虫 [百度云下载链接](https://pan.baidu.com/s/1GEiV0epSsZg3aUjw1Bgx_g) 密码:s69b
+- Python数据处理 [百度云下载链接](https://pan.baidu.com/s/1StQCDaLeBWo1D-qRbyFhjw) 密码:k134
+- Python数据分析实战 [百度云下载链接](https://pan.baidu.com/s/1TR3cpHFGEYAvd8c18-jA2g) 密码:hkfq
+- Python数据科学手册 [百度云下载链接](https://pan.baidu.com/s/1wGyCC8K0i_VLF3NoIWJ6Cg) 密码:cik9
+- Python数据可视化编程实战 [百度云下载链接](https://pan.baidu.com/s/1wCz8oC82MJC1rdw5f8vETg) 密码:9116
+- 精通Scrapy网络爬虫 [百度云下载链接](https://pan.baidu.com/s/19mlibBEpm4a9dZPd7XnASw) 密码:hvmq
 
 
 # 程序员修炼
